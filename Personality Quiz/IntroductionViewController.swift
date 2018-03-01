@@ -1,14 +1,14 @@
 //
-//  ViewController.swift
-//  Personality Quiz
+//  IntroductionViewController.swift
+//  PersonalityQuiz
 //
-//  Created by Jan Marten Sevenster on 23/02/2018.
+//  Created by Jan Marten Sevenster on 21/02/2018.
 //  Copyright © 2018 John Appleseed. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class IntroductionViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
